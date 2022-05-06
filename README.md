@@ -1,6 +1,7 @@
 # Chat pour IPSSI/flutter
 
-basé sur firstapplicationeisi
+basé sur firstapplicationEISI (https://github.com/ackwrit/firstapplicationEISI)
 
 Romain BOUCHEZ
-pas de binome
+
+pas de binôme
