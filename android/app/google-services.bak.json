@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235764013442",
+    "project_id": "ipssibidule1",
+    "storage_bucket": "ipssibidule1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235764013442:android:7aa691382f92d29f43979b",
+        "android_client_info": {
+          "package_name": "com.example.firstapplicationeisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235764013442-c92oihhr56i0ujcrajkfvfvgc1vebf4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOuPOPEKKCfl4fcJWyvtxHn17Ox4c2cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235764013442-c92oihhr56i0ujcrajkfvfvgc1vebf4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
